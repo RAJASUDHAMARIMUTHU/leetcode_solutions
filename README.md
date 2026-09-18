@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [3945-digit-frequency-score](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
