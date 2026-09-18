@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
