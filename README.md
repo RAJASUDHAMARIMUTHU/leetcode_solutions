@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
