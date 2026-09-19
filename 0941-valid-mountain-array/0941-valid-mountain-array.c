@@ -1,21 +1,17 @@
-bool validMountainArray(int* arr, int arrSize){
-    int i=0;
-    if(arrSize<3)
-    {
-        return false;
-    }
-   while(i<arrSize-1 && arr[i]<arr[i+1])
-   {
-    i++;
+bool validMountainArray(int* arr, int arrSize) {
+   if(arrSize<3){
+    return false;
    }
-   if (i == 0 || i == arrSize - 1) {
-        return false;
-    }
-
-   while(i<arrSize-1 && arr[i]>arr[i+1])
-   {
-    i++;
+   int low=0;
+   int high=arrSize-1;
+   while(low<arrSize-1 && arr[low]<arr[low+1]){
+       low++;
    }
-   
-      return i == arrSize - 1;
+   while(high>0 && arr[high]<arr[high-1]){
+      high--;
+   }
+   if(low==0 || high==arrSize-1){
+       return false;
+   }
+      return low==high;
 }
