@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0704-binary-search](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
