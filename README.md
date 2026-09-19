@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
