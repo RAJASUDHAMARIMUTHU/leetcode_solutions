@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
