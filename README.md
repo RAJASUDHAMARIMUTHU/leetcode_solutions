@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
