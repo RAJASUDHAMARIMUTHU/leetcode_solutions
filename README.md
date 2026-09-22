@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
