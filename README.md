@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
