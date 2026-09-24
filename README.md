@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0541-reverse-string-ii](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3498-reverse-degree-of-a-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
