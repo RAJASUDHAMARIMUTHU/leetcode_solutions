@@ -1,30 +1,29 @@
 int maxArea(int* height, int heightSize) {
-    int max=0;
+    int len=0;
     int left=0;
-    int area;
     int right=heightSize-1;
+    int max=0;
     while(left<right){
         int h;
-        if(height[left]<height[right]){
-            h=height[left];
-        }
-        else{
-            h=height[right];
-        }
-    
-    int width=right-left;
-    area=h*width;
-    
-    if(area>max){
+       if(height[left]<height[right]){
+         h=height[left];
+
+       } 
+       else{
+        h=height[right];
+       }
+       len=right-left;
+       int area=len*h;
+       if(area>max){
         max=area;
-    }
-    
-    if(height[left]<height[right]){
+       }
+       
+       if(height[left]<height[right]){
         left++;
-    }
-    else{
+       }
+       else{
         right--;
+       }
     }
+      return max;
     }
-    return max;
-}
