@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0941-valid-mountain-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0941-valid-mountain-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
