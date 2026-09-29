@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3701-compute-alternating-sum) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
