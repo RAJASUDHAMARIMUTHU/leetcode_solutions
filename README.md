@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3498-reverse-degree-of-a-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
