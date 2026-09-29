@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0420-strong-password-checker](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0420-strong-password-checker) |
 | [0541-reverse-string-ii](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0420-strong-password-checker](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0420-strong-password-checker) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0420-strong-password-checker](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0420-strong-password-checker) |
 <!---LeetCode Topics End-->
