@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
 | ------- |
