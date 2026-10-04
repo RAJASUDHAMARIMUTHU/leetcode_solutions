@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0575-distribute-candies) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
