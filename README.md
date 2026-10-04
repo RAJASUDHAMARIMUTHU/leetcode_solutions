@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0704-binary-search) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RAJASUDHAMARIMUTHU/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
 |  |
 | ------- |
